@@ -13,4 +13,7 @@ export const saveValidator = [
                 resolve();
             });
         }),
+        // @todo: add time
+        check('time').exists(),
+        // others fields
 ];
