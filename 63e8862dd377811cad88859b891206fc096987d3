@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "b1764f76_5b32f641",
+        "filename": "index.ts",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 1016060
+      },
+      "writtenOn": "2019-02-23T16:46:31Z",
+      "side": 1,
+      "message": "hmmm ... ?",
+      "revId": "63e8862dd377811cad88859b891206fc096987d3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    }
+  ]
+}
